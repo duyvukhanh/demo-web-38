@@ -1,3 +1,8 @@
 body {
     background: grey;
 }
+
+body>div {
+    display: flex;
+    justify-content: center;
+}
