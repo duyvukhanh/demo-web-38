@@ -2,6 +2,7 @@ body {
     background: grey;
 }
 
+/* already merge code */
 body>div {
     display: flex;
     justify-content: center;
